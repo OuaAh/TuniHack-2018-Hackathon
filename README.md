@@ -3,13 +3,13 @@
 
 عينك على بلديتك
 
-Une plateforme qui vous donne une supervision sur les dépenses et les revenu d'une municipalité.
+Une plateforme qui vous donne une supervision sur les dépenses et les revenus d'une municipalité.
 
-Elle vous donne aussi des notifications et des alerts sur différentes sujets.
+Elle vous donne aussi des notifications et des alerts sur différents sujets.
 
 Cette plateforme vous permet aussi d'estimer la coutissation d'un projet.
 
-Cette fonctionnalité donc nous permet de superviser les prix aux projets.
+Cette fonctionnalité donc nous permet de superviser les prix des projets.
 
 Dans cette partie, nous avons utilisé une dataset de simulation.
 
